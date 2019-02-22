@@ -1,0 +1,7 @@
+Nombre: aa
+Codigo operario: aaa
+Estado: Completo
+Tiempo: 0:5:83
+Distancia recorrida: 450 Mts
+Distancia esperada: 450 Mts
+Calificacion: 100.0%

@@ -1,0 +1,7 @@
+Nombre: asdasd
+Codigo operario: asdasd
+Estado: Incompleto, Colision
+Tiempo: 0:7:61
+Distancia recorrida: 600 Mts
+Distancia esperada: 670 Mts
+Calificacion: 0%

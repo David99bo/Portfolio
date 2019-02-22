@@ -1,0 +1,7 @@
+Nombre: asas
+Codigo operario: asas
+Estado: Completo
+Tiempo: 0:7:80
+Distancia recorrida: 500 Mts
+Distancia esperada: 500 Mts
+Calificacion: 100.0%

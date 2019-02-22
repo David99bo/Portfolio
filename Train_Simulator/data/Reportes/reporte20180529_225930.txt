@@ -1,0 +1,7 @@
+Nombre: asas
+Codigo operario: asas
+Estado: Incompleto, Limite de velocidad excedido
+Tiempo: 0:13:15
+Distancia recorrida: 891 Mts
+Distancia esperada: 650 Mts
+Calificacion: 0%

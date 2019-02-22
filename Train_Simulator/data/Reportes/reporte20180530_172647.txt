@@ -1,0 +1,7 @@
+Nombre: d
+Codigo operario: 44
+Estado: Incompleto, Colision
+Tiempo: 0:3:4
+Distancia recorrida: 150 Mts
+Distancia esperada: 472 Mts
+Calificacion: 0%

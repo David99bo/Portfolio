@@ -1,0 +1,7 @@
+Nombre: laptitadegallo
+Codigo operario: 97
+Estado: Incompleto, Limite de velocidad excedido
+Tiempo: 0:20:23
+Distancia recorrida: 2063 Mts
+Distancia esperada: 708 Mts
+Calificacion: 0%

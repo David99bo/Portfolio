@@ -1,0 +1,7 @@
+Nombre: David Bolivar
+Codigo operario: 113212
+Estado: Incompleto, Colision
+Tiempo: 0:13:83
+Distancia recorrida: 1082 Mts
+Distancia esperada: 682 Mts
+Calificacion: 0%

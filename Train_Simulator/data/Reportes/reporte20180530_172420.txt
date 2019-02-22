@@ -1,0 +1,7 @@
+Nombre: aa
+Codigo operario: aaa
+Estado: Incompleto, Colision
+Tiempo: 0:5:23
+Distancia recorrida: 282 Mts
+Distancia esperada: 270 Mts
+Calificacion: 0%

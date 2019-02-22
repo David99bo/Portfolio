@@ -1,0 +1,11 @@
+#nivel: 
+0
+#Jugador -----  PosX PosY PosXInI posYIni Vida estaEnPlataforma ImagenActual Activo Direccion posicionMovimiento posicionIdle Disparando enMovimiento saltando bajando saltoParabolico subiendo aim posicionActualDisparo enemigosMuertos posicionMuerte
+375 810 520 810 95 true ./data/Jugador/Iddle/Idle6I.png true I 2 7 false false false false false false N 1 10 1
+#Aranas -----  PosX PosY PosXInI posYIni Vida estaEnPlataforma ImagenActual Activo Direccion posicionMovimiento posicionIdle Disparando Destruido
+568 240 500 -30 60 true ./data/Spider/Walk/walk1I.png true I 2 1 false false
+#Robots Voladores -----  PosX PosY PosXInI posYIni Vida ImagenActual Activo Direccion Disparando Destruido
+376 20 20 600 80 ./data/EnemigosGif/FlyingRobot.gif true D true false
+#CrabBots -----  PosX PosY PosXInI posYIni Vida ImagenActual Activo Direccion Disparando Destruido
+#Boss -----  PosX PosY PosXInI posYIni Vida ImagenActual Activo Direccion Disparando posicionIdle posicionMovimiento enMovimiento posicionCompuerta Destruido
+

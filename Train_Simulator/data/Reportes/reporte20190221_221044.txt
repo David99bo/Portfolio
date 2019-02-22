@@ -1,0 +1,7 @@
+Nombre: a
+Codigo operario: as
+Estado: Completo
+Tiempo: 0:23:83
+Distancia recorrida: 1807 Mts
+Distancia esperada: 450 Mts
+Calificacion: 25.0%

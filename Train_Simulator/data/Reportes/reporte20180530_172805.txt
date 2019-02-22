@@ -1,0 +1,7 @@
+Nombre: as
+Codigo operario: asas
+Estado: Incompleto, Colision
+Tiempo: 0:4:2
+Distancia recorrida: 50 Mts
+Distancia esperada: 450 Mts
+Calificacion: 0%

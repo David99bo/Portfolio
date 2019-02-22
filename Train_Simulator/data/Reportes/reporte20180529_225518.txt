@@ -1,0 +1,7 @@
+Nombre: David Bolivar
+Codigo operario: SDKJ
+Estado: Incompleto, Colision
+Tiempo: 0:4:87
+Distancia recorrida: 463 Mts
+Distancia esperada: 500 Mts
+Calificacion: 0%
